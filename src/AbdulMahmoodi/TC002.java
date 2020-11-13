@@ -1,5 +1,5 @@
 package AbdulMahmoodi;
 
 public class TC002 {
-    // code here
+    // Java is fun
 }
